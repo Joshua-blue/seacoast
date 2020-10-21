@@ -35,7 +35,7 @@ ruby -v
 
 ## 1.3、操作截图
 
-![image-20201016155121915](/https://raw.githubusercontent.com/Joshua-blue/seacoast/gh-pages/assets/images/blog-img/image-20201016155121915.png)
+![image-20201016155121915](https://raw.githubusercontent.com/Joshua-blue/seacoast/gh-pages/assets/images/blog-img/image-20201016155121915.png)
 
 ## 1.4、参考指南
 
