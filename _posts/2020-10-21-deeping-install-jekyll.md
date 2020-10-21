@@ -2,17 +2,18 @@
 layout: post
 title:  "Deeping安装jekyll"
 author: joshua
-categories: [ Lifestyle ]
-tags: [ France ]
+categories: [ Blog ]
+tags: [ Jekyll ]
 image: assets/images/blog.jpg
-rating: 4.5
+beforetoc: "Jekyll+GitHub搭建个博客-使用深度系统安装jekyll"
+toc: true
 ---
 
 参考官网地址：https://jekyllrb.com/docs/  或 http://jekyllcn.com/
 
 参考 https://jekyllrb.com/docs/  进行安装：
 
-![image-20201016162001086](img/image-20201016162001086.png)
+![image-20201016162001086](https://raw.githubusercontent.com/Joshua-blue/seacoast/gh-pages/assets/images/blog-img/image-20201016155121915.pngimage-20201016162001086.png)
 
 备注：安装好`Ruby`后根据上述图片提示，逐次使用版本查看指令查看。
 
@@ -34,15 +35,13 @@ ruby -v
 
 ## 1.3、操作截图
 
-![image-20201016155121915](img/image-20201016155121915.png)
-
-
+![image-20201016155121915](/https://raw.githubusercontent.com/Joshua-blue/seacoast/gh-pages/assets/images/blog-img/image-20201016155121915.pngimage-20201016155121915.png)
 
 ## 1.4、参考指南
 
 https://www.ruby-lang.org/zh_cn/documentation/installation/#apt
 
-![image-20201016155445134](img/image-20201016155445134.png)
+![image-20201016155445134](https://raw.githubusercontent.com/Joshua-blue/seacoast/gh-pages/assets/images/blog-img/image-20201016155121915.pngimage-20201016155445134.png)
 
 
 
@@ -50,9 +49,9 @@ https://www.ruby-lang.org/zh_cn/documentation/installation/#apt
 
 安装好`Ruby`后，根据官网的提示，逐一使用下列指令查看：
 
-![image-20201016162001086](img/image-20201016162001086.png)
+![image-20201016162001086](https://raw.githubusercontent.com/Joshua-blue/seacoast/gh-pages/assets/images/blog-img/image-20201016155121915.pngimage-20201016162001086.png)
 
-![image-20201016163341106](img/image-20201016163341106.png)
+![image-20201016163341106](https://raw.githubusercontent.com/Joshua-blue/seacoast/gh-pages/assets/images/blog-img/image-20201016155121915.pngimage-20201016163341106.png)
 
 根据提示信息，需要安装g++。
 
@@ -70,7 +69,7 @@ g++ -v
 
 ## 2.3、操作截图
 
-![image-20201016164251272](img/image-20201016164251272.png)
+![image-20201016164251272](https://raw.githubusercontent.com/Joshua-blue/seacoast/gh-pages/assets/images/blog-img/image-20201016155121915.pngimage-20201016164251272.png)
 
 # 二、安装jekyll
 
@@ -84,7 +83,7 @@ sudo gem install jekyll bundler
 
 操作截图：
 
-![image-20201016165246165](img/image-20201016165246165.png)
+![image-20201016165246165](https://raw.githubusercontent.com/Joshua-blue/seacoast/gh-pages/assets/images/blog-img/image-20201016155121915.pngimage-20201016165246165.png)
 
 ## 3.2、创建
 
@@ -96,7 +95,7 @@ jekyll new myblog
 
 操作截图：
 
-![image-20201016170048856](img/image-20201016170048856.png)
+![image-20201016170048856](https://raw.githubusercontent.com/Joshua-blue/seacoast/gh-pages/assets/images/blog-img/image-20201016155121915.pngimage-20201016170048856.png)
 
 ## 3.3、启动服务
 
@@ -114,8 +113,8 @@ bundle exec jekyll serve
 
 访问端口：
 
-![image-20201016170658288](img/image-20201016170658288.png)
+![image-20201016170658288](https://raw.githubusercontent.com/Joshua-blue/seacoast/gh-pages/assets/images/blog-img/image-20201016155121915.pngimage-20201016170658288.png)
 
 操作截图：
 
-![image-20201016170444807](img/image-20201016170444807.png)
+![image-20201016170444807](https://raw.githubusercontent.com/Joshua-blue/seacoast/gh-pages/assets/images/blog-img/image-20201016155121915.pngimage-20201016170444807.png)
