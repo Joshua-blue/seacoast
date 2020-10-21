@@ -1,4 +1,15 @@
-# Deeping 安装jekyll
+---
+layout: post
+title:  "Deeping 安装 jekyll"
+author: joshua
+categories: [ Blog ]
+tags: [ Jekyll ]
+image: assets/images/blog.jpg
+---
+
+
+
+# Deeping安装jekyll
 
 参考官网地址：https://jekyllrb.com/docs/  或 http://jekyllcn.com/
 
