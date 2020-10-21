@@ -1,15 +1,12 @@
 ---
 layout: post
-title:  "Deeping 安装 jekyll"
+title:  "Deeping安装jekyll"
 author: joshua
-categories: [ Blog ]
-tags: [ Jekyll ]
+categories: [ Lifestyle ]
+tags: [ France ]
 image: assets/images/blog.jpg
+rating: 4.5
 ---
-
-
-
-# Deeping安装jekyll
 
 参考官网地址：https://jekyllrb.com/docs/  或 http://jekyllcn.com/
 
