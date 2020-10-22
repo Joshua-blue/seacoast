@@ -9,15 +9,11 @@ beforetoc: "Jekyll+GitHub搭建个博客-使用深度系统安装jekyll"
 toc: true
 ---
 
-参考官网地址：https://jekyllrb.com/docs/  或 http://jekyllcn.com/
-
-参考 https://jekyllrb.com/docs/  进行安装：
+参考官网地址：https://jekyllrb.com/docs/  或 http://jekyllcn.com/ 进行安装：
 
 ![image-20201016162001086](https://raw.githubusercontent.com/Joshua-blue/seacoast/gh-pages/assets/images/blog-img/image-20201016162001086.png)
 
 备注：安装好`Ruby`后根据上述图片提示，逐次使用版本查看指令查看。
-
-
 
 # 一、安装Ruby
 
