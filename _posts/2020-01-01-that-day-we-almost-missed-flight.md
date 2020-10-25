@@ -1,5 +1,5 @@
 ---
-layout: post
+1	layout: post
 title:  "That day when we almost missed our flight"
 author: sal
 categories: [ Travel, Lifestyle ]
